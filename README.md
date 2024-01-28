@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# <h1>Ecommerce Webstore</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built using react.js ,Node.js ,bootstrap-5,react-bootstrap and reatstrap.
 
-## Available Scripts
+## Structure
 
-In the project directory, you can run:
+In the project directory,you will see that whole website is properly built by creating re-usabale and standlone components
+in such a way that design and logic parts are separately implemented.You can see offcanvas and modals components.
 
 ### `npm start`
 
